@@ -7,15 +7,6 @@ I'm **Pallavi Bichpuriya**, a Data Engineer and AI researcher based in Charlotte
 * 💼 Former Senior Software Engineer at HSBC (2018–2024)
 * 🔭 Exploring Generative AI and 3D Motion Modeling
 * 📫 Reach me at: [pallavi.bichpuriya@gmail.com](mailto:pallavi.bichpuriya@gmail.com)
-* ⚡ Fun fact: I enjoy turning complex data problems into elegant solutions!
-
----
-
-## 🔭 Current Projects
-
-* **Masked Motion Model Deployment**: Multi-platform text-to-motion AI demo → [Live Demo](https://huggingface.co/spaces/pbichpur/MMM-Demo)
-* **USD from glTF**: C++17 converter glTF → USDZ → [Repo](https://github.com/pals6/usd_from_gltf)
-* **Mental Health Chatbot (RL)**: Adaptive PPO-based chatbot → [Repo](https://github.com/pals6/MentalHealthAgent)
 
 ---
 
