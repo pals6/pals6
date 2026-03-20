@@ -1,37 +1,27 @@
-# Hi there 👋
+# Hi there! I'm Pallavi Bichpuriya 👋
 
-I'm **Pallavi Bichpuriya**, a Data Engineer and AI researcher based in Charlotte, NC.
+I am a **Data Engineer**, **Software Engineer**, and **AI Researcher** currently based in Charlotte, NC. I specialize in building scalable data solutions and exploring the frontiers of **Generative AI**.
 
-- 🎓 Master’s Student in Computer Science at UNC Charlotte  
-- 🧪 Graduate Research Assistant at **AI4Health Center, UNC Charlotte**  
-- 💼 Former Senior Software Engineer at **HSBC (2018–2024)**  
-- 🔭 Exploring **Generative AI** + **3D Motion Modeling**  
-- 📫 Reach me at: **[pallavi.bichpuriya@gmail.com](mailto:pallavi.bichpuriya@gmail.com)**  
+### 🎓 Education & Research
+* **Master’s in Computer Science** | University of North Carolina at Charlotte
+* **Graduate Research Assistant** | [AI4Health Center, UNC Charlotte](https://github.com/pals6/pals6)
+    * Focusing on **Generative AI** and **3D Motion Modeling**.
 
----
+### 💼 Professional Experience
+* **Former Senior Software Engineer at HSBC (2018–2024)**
 
-## 🏆 Awards & Achievements
+### 🏆 Awards & Hackathons
+* **Pearl Hacks 2026 — Project: CareLess**
+    * 🥉 **3rd Place Overall**
+    * 🏆 **MLH: Best Use of Solana**
+    * 🥈 **Fidelity: Best Hack to Make Finance For All** (2nd Place)
+* **Hack with CAIR**
+    * 🥉 **3rd Place**
 
-### Pearl Hacks 2026 — CareLess
-- 🥉 **Third Place Overall**
-- 🏆 **MLH: Best Use of Solana**
-- 🥈 **Fidelity: Best Hack to Make Finance For All (2nd Place)**  
+### 🛠️ Tech Stack & Interests
+* **Languages:** Python, SQL, Java, HTML/CSS
+* **Interests:** Data Engineering, Machine Learning, Generative AI, 3D Modeling
 
-### Hack with CAIR
-- 🥉 **3rd Place**
-
----
-
-## 📈 GitHub Stats
-
-![Pallavi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pals6&show_icons=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pals6&layout=compact)
-
----
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/pallavi-bichpuriya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=github&logoColor=white)](https://pals6.github.io)
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/pbichpur)
+### 🤝 Connect with Me
+* 📧 Email: [pallavi.bichpuriya@gmail.com](mailto:pallavi.bichpuriya@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/pallavibichpuriya/)
