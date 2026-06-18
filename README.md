@@ -1,27 +1,99 @@
-# Hi there! I'm Pallavi Bichpuriya 👋
+# Hi, I'm Pallavi Bichpuriya 👋
 
-I am a **Data Engineer**, **Software Engineer**, and **AI Researcher** currently based in Charlotte, NC. I specialize in building scalable data solutions and exploring the frontiers of **Generative AI**.
+### Data Engineer · Software Engineer · AI/ML Practitioner
 
-### 🎓 Education & Research
-* **Master’s in Computer Science** | University of North Carolina at Charlotte
-* **Graduate Research Assistant** | [AI4Health Center, UNC Charlotte](https://github.com/pals6/pals6)
-    * Focusing on **Generative AI** and **3D Motion Modeling**.
+I’m a software and data engineer with **6+ years of experience** building enterprise data platforms, ETL pipelines, backend workflows, and applied AI systems.
 
-### 💼 Professional Experience
-* **Former Senior Software Engineer at HSBC (2018–2024)**
+Previously, I worked as a **Senior Software Engineer at HSBC**, where I improved data-processing efficiency by **40%**, reduced ETL errors by **60%**, and helped mitigate **$4M+ in compliance risk**.
 
-### 🏆 Awards & Hackathons
-* **Pearl Hacks 2026 — Project: CareLess**
-    * 🥉 **3rd Place Overall**
-    * 🏆 **MLH: Best Use of Solana**
-    * 🥈 **Fidelity: Best Hack to Make Finance For All** (2nd Place)
-* **Hack with CAIR**
-    * 🥉 **3rd Place**
+I recently earned my **M.S. in Computer Science from UNC Charlotte** and currently contribute to multimodal AI and human-motion research at the **AI4Health Center**.
 
-### 🛠️ Tech Stack & Interests
-* **Languages:** Python, SQL, Java, HTML/CSS
-* **Interests:** Data Engineering, Machine Learning, Generative AI, 3D Modeling
+---
 
-### 🤝 Connect with Me
-* 📧 Email: [pallavi.bichpuriya@gmail.com](mailto:pallavi.bichpuriya@gmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/pallavibichpuriya/)
+## 🔭 What I’m Working On
+
+* Multimodal AI systems combining **text, speech, audio, and motion**
+* PyTorch preprocessing and inference pipelines
+* Generative AI, VQ-VAE tokenization, and Transformer architectures
+* Scalable data pipelines, cloud platforms, and backend systems
+* Retrieval-Augmented Generation and LLM-powered applications
+
+---
+
+## 🚀 Featured Projects
+
+### [Enterprise Knowledge Assistant](https://huggingface.co/spaces/pbichpur/NotebookLMClone)
+
+A NotebookLM-style RAG application supporting document ingestion, vector search, citation-grounded responses, reports, quizzes, and generated content.
+
+**Tech:** Python, LangChain, ChromaDB, LLM APIs, OAuth 2.0
+
+### [Modern Data Stack Pipeline](https://github.com/pals6/customer-orders-pipeline)
+
+An end-to-end ELT pipeline that transforms raw customer and order data into analytics-ready BigQuery models.
+
+**Tech:** BigQuery, dbt, Apache Airflow, Terraform, SQL
+
+### [CareLess](https://github.com/pals6/CareLess)
+
+An AI-powered healthcare cost-transparency platform built at Pearl Hacks 2026.
+
+**Recognition:**
+
+* 🥉 3rd Place Overall
+* 🏆 Best Use of Solana
+* 🥈 Fidelity: Best Hack to Make Finance For All
+
+### [Alethia](https://github.com/pals6/NASASpaceChallenge)
+
+An AI knowledge engine that processed **600+ NASA datasets** for semantic search and cross-domain scientific discovery.
+
+**Tech:** Python, LLMs, embeddings, knowledge graphs, data pipelines
+
+### [CuraRx](https://github.com/pals6/HACKGT)
+
+An AI-enabled EHR assistant built over **1M+ pharmacy and formulary records** to provide cost, coverage, and prior-authorization insights.
+
+**Tech:** AWS, MariaDB, Next.js, LLM APIs
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, Java, C/C++, JavaScript, Bash
+**Data Engineering:** ETL/ELT, Apache Spark, PySpark, dbt, Airflow, Data Warehousing
+**Cloud:** AWS, Google Cloud Platform, BigQuery, S3, Glue, Redshift, Athena
+**AI/ML:** PyTorch, Transformers, RAG, LangChain, ChromaDB, VQ-VAE
+**Backend & DevOps:** Flask, FastAPI, REST APIs, Docker, Kubernetes, CI/CD
+**Databases:** Oracle, DB2, BigQuery, MySQL, MariaDB
+**Other:** OpenUSD, glTF/GLB, Looker, GitHub Actions, Jenkins
+
+---
+
+## 🏆 Awards
+
+* 🥉 **3rd Place Overall — Pearl Hacks 2026**
+* 🏆 **Best Use of Solana — Pearl Hacks 2026**
+* 🥈 **Best Hack to Make Finance For All — Fidelity**
+* 🥉 **3rd Place — CAIR Hackathon 2025**
+* ⭐ **Star Performer — HSBC**
+
+---
+
+## 🎓 Education
+
+**M.S. in Computer Science**
+University of North Carolina at Charlotte
+GPA: **3.8/4.0**
+
+---
+
+## 🤝 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/pallavi-bichpuriya/)
+* [GitHub](https://github.com/pals6)
+* [Email](mailto:pallavi.bichpuriya@gmail.com)
+
+---
+
+> Building reliable data systems and practical AI products that turn complex information into meaningful outcomes.
